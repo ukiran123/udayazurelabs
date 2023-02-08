@@ -1,1 +1,2 @@
 This is Uday and it is my first edit in Git Bash
+This is Uday again and this time the changes were made from the GITHUB.
